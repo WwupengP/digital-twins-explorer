@@ -1,13 +1,13 @@
 ---
-页面类型： sample
-语言：
+页面类型: sample
+语言:
 - javascript
 - typescript
-产品：
+产品:
 - azure-digital-twins
-名称： Azure Digital Twins explorer
-描述： A code sample for visualizing and managing an Azure Digital Twins instance
-url资源标识： digital-twins-explorer
+名称: Azure Digital Twins explorer
+描述: A code sample for visualizing and managing an Azure Digital Twins instance
+url资源标识: digital-twins-explorer
 ---
 
 # Azure Digital Twins Explorer
